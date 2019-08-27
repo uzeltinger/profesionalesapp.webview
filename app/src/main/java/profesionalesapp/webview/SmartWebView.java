@@ -28,7 +28,7 @@ class SmartWebView {
  	static boolean ASWP_MULFILE     = true;
 
 	// track GPS locations
-	static boolean ASWP_LOCATION    = true;
+	static boolean ASWP_LOCATION    = false;
 
 	// show ratings dialog; auto configured
 	// edit method get_rating() for customizations
